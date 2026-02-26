@@ -2,7 +2,7 @@
 
 An interactive Streamlit application demonstrating a **Power BI-style executive analytics dashboard** — built on the Microsoft Azure ecosystem with real-time streaming, DAX measure libraries, AI/ML insights, and Microsoft Fabric architecture.
 
-**[View Live Demo](https://anualli-demo-powerbi-azure-dashboard.streamlit.app)**
+**[View Live Demo](https://anualli-demo-powerbi-azure-dashboard-app-drxqds.streamlit.app)**
 
 ---
 
